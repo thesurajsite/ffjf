@@ -116,7 +116,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/aclonica"
-        android:text="Rock Paper Scissor"
+        android:text="Rock Paper Scissors"
         android:textColor="#000000"
         android:textSize="30sp"
         android:textStyle="bold"
